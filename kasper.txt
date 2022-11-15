@@ -1,6 +1,6 @@
-hello this is me kasper
-<<<<<<< HEAD
+Newly Updated From Desktop for a simple Project Challenge.
 
+hello this is me kasper
 // This is updated from the notepad
 =======
 hello
@@ -10,7 +10,5 @@ Hello this is themyarmi varengnao
 
 // This is TEAM HIGH TECH and 
 // It is updated from Notepad
-
-
 
 //Okay Now, This is Updated From Github Rename section
