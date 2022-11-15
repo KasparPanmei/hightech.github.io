@@ -115,11 +115,21 @@
     justify-content: space-evenly;
     align-items: center;
 }
+.counter .image-counter .img .img-flex
+{
+    overflow: hidden;
+    cursor : pointer;
+}
 .counter .image-counter .img  img
 {
     width: 120px;
     height: 120px;
     object-fit: contain;
+    transition: 400ms;
+}
+.counter .image-counter .img  img:hover
+{
+    transform: scale(1.1);
 }
 .counter .image-counter .img .contains h2
 {
