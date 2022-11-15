@@ -7,3 +7,6 @@ hello
 Hello this is themyarmi varengnao
 // This is updated from github
  hello my name is kasper
+
+// This is TEAM HIGH TECH and 
+// It is updated from Notepad
